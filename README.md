@@ -13,6 +13,6 @@ Welcome to my Greenden project. Greenden is a simple and elegant website showcas
 2.Tailwind CSS
 3.Javascript
 
-## TO VIEW MY PROJECT CLICK THE LINK GIVEN [ ]
+## TO VIEW MY PROJECT CLICK THE LINK GIVEN [https://devanand-10.github.io/GreenDen/]
 
 ## THANK YOU!!
