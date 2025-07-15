@@ -1,5 +1,5 @@
 ## Greenden 🌿
-Greenden is a simple and elegant website showcasing home products, including a selection of beautiful flower pots for sale. Built entirely with HTML and Tailwind CSS, this project provides a clean and responsive design, ensuring a seamless user experience.
+Welcome to my Greenden project. Greenden is a simple and elegant website showcasing home products, including a selection of beautiful flower pots for sale. Built entirely with HTML and Tailwind CSS, this project provides a clean and responsive design, ensuring a seamless user experience.
 
 ## 🌟 Features:
 
